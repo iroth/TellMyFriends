@@ -1,4 +1,5 @@
 # TellMyFriends
+
 A tool for automating sending personalized WhatsApp messages - for both Mac and Windows
 This is a simple, semi-manual tool, not requiring a WhatsApp business account or API.
 Its Mac version uses Apple Script Editor with some JavaScript code, and its Windows version is written using VB.Net.
@@ -15,3 +16,7 @@ name,phone,template
 Jack,12123334444,template1.txt
 Jill,12123335555,template2.txt
 
+More Information on this project is available on my blog at:
+
+1. Mac: https://www.srooltheknife.com/2024/02/automating-whatsapp-using-applescript.html
+2. Windows: https://www.srooltheknife.com/2024/02/automating-whatsapp-part-2-on-windows.html
